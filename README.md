@@ -10,7 +10,5 @@ Very much made possible by the help of [Friction](https://github.com/friction07)
 It is a revision of the [Original Drift Keyboard](https://github.com/Timception/Drift) using Vial-QMK firmware.
 
 
+
 You can see more actual builds [-=HERE=-](https://www.instagram.com/majin_keyboards)
-
-
-![Drift Kaiju](https://github.com/user-attachments/assets/d7bbbe04-6ff5-4c6a-9a00-f93c820ec6de)
